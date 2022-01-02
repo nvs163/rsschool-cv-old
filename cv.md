@@ -1,14 +1,14 @@
-# Владислав Никитин
+# Vladislav Nikitin
 ***
-## Контакты
-тел.: +7-927-214-09-74;
-e-mail: vladislavnikitin16#@gmail.com
+## Contacts
+tel.: + 7-927-214-09-74;
+email: vladislavnikitin163@gmail.com
 ***
-## О себе
-* Мне 30 лет. Последние 8-9 лет занимаюсь интернет-маркетингом. Давно хотел освоить программирование, но все никак не доходило до этого. В 2019 начал смотреть видео на YouTube и читать статьи, но это все было без практики. В 2020 году, в самый разгар пандемии, нашел в интернет курс от Glo Academy и начал по нему учиться. Прошел все уроки по HTML и CSS, до JS так и не дошел, потому что не было свободного времени. После этого на более чем 1 год снова отложил обучение и вот в декабре 2021 года решил окончательно довести это дело до логического завершения. К сожалению, из-за основной работы времени и сил практически не остается, но есть мотивация и желание. В будущем хочу помогать школе RS с проведением обучений.
+## About myself
+* I am 30. I have been doing internet marketing for the last 8-9 years. I have wanted to learn programming for a long time, but it never came to that. In 2019, I started watching YouTube videos and reading articles, but it was all without practice. In 2020, in the midst of a pandemic, I found a course from Glo Academy on the Internet and began to study it. I went through all the lessons on HTML and CSS, I never got to JS, because there was no free time. After that, he postponed his studies for more than 1 year, and in December 2021 he decided to finally bring this matter to its logical conclusion. Unfortunately, due to the main work, there is practically no time and effort left, but there is motivation and desire. In the future, I want to help RS school with training.
 ***
-## навыки
-Небольшие знания в html и css, а также в Git и GitHub.
-## Опыт
-Опыта в программировании нет.
-## Английский - A2
+## skills
+Little knowledge in html and css as well as Git and GitHub.
+## Experience
+No programming experience.
+## English - A2

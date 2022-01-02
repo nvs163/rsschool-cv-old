@@ -1,1 +1,1 @@
-[CV#1. HTML, CSS & Git Basics](https://nvs163.github.io/rsschool-cv/ "CV#1. HTML, CSS & Git Basics")
+[CV#3. HTML, CSS & Git](https://nvs163.github.io/rsschool-cv/ "CV#3. HTML, CSS & Git")
